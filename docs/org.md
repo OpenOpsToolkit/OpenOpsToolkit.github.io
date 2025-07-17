@@ -1,11 +1,9 @@
 # OpenOpsToolkit Organization
 
-## Mission
-
-Empowering teams with open, scalable, and easy-to-use DevOps tools.
+Welcome to the OpenOpsToolkit documentation site.
 
 ## Repositories
 
-- [DevOps Bootstrap Documentation](https://openopstoolkit.github.io/devops-bootstrap/)
+- [DevOps Bootstrap](devops-bootstrap/index.md): Tools and templates for bootstrapping DevOps projects.
 
 > Each repository manages its own documentation. Click a link above to view detailed docs for each project.
