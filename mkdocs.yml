@@ -1,9 +1,10 @@
-site_name: DevOps Toolkit
+site_name: OpenOpsToolkit
+site_description: OpenOpsToolkit DevOps Bootstrap Documentation
+site_author: OpenOpsToolkit
+site_version: 1.0.0
 site_url: https://OpenOpsToolkit.github.io
 repo_url: https://github.com/OpenOpsToolkit/devops-bootstrap
 nav:
   - Organization: org.md
-  - Repositories:
-      - Repo1: repos/devops-bootstrap/index.md
 theme:
   name: material
