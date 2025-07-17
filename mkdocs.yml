@@ -4,7 +4,6 @@ site_author: OpenOpsToolkit
 site_url: https://OpenOpsToolkit.github.io
 nav:
   - Home: index.md
-  - DevOps Bootstrap: devops-bootstrap/index.md
 theme:
   name: material
   logo: assets/logo.png
