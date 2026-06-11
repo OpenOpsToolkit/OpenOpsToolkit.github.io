@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://OpenOpsToolkit.github.io/</loc>
-         <lastmod>2025-07-17</lastmod>
+         <lastmod>2026-06-11</lastmod>
     </url>
     <url>
          <loc>https://OpenOpsToolkit.github.io/org/</loc>
-         <lastmod>2025-07-17</lastmod>
+         <lastmod>2026-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://OpenOpsToolkit.github.io/privacy/</loc>
+         <lastmod>2026-06-11</lastmod>
     </url>
 </urlset>
